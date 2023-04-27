@@ -1,3 +1,3 @@
 dark-mode-demo
 ==============
-[](./src/assets/demo.gif)
+![GIF](./src/assets/demo.gif)
